@@ -11,3 +11,5 @@ patient_001_pinch_v3/
 venv/
 
 *.save
+*.swp
+.*.swp
