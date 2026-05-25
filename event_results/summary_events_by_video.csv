@@ -1,0 +1,6 @@
+video,num_candidates,first_event_s,last_event_s,mean_speed_mm_s,median_speed_mm_s
+patient_001camP_0_20241121_10_21_17_v3,41,0.16,27.24,2.51,0.0
+patient_001camP_1_20241121_10_20_50_v3,45,0.2,29.48,0.72,0.0
+patient_001camP_1_20241121_10_21_17_v3,46,0.24,26.88,3.49,2.02
+patient_001camP_1_20241121_10_21_45_v3,53,0.08,29.76,3.02,0.0
+patient_001camP_1_20241121_10_22_13_v3,52,0.08,30.04,2.2,0.1

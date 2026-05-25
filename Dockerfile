@@ -18,7 +18,9 @@ RUN pip install --no-cache-dir \
     matplotlib \
     pandas \
     scipy \
-    mediapipe
+    tabulate \
+    mediapipe==0.10.14 \
+    "protobuf<5"
 
 COPY . .
 
