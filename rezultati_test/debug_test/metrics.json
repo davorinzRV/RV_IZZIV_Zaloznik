@@ -1,0 +1,14 @@
+{
+  "fps": 25.0,
+  "frames": 686,
+  "duration_s": 27.4,
+  "detection_rate": 0.0,
+  "primary_unit": "px",
+  "hand_total_path": 0.0,
+  "hand_mean_speed": NaN,
+  "hand_max_speed": NaN,
+  "hand_mean_acceleration": NaN,
+  "hand_max_acceleration": NaN,
+  "thumb_total_path": 0.0,
+  "index_total_path": 0.0
+}

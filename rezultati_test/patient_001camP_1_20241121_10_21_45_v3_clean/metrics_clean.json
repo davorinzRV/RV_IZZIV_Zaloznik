@@ -1,0 +1,15 @@
+{
+  "frames": 747,
+  "duration_s": 29.84,
+  "primary_unit": "px",
+  "input_dir": "results/patient_001camP_1_20241121_10_21_45_v3",
+  "output_dir": "results/patient_001camP_1_20241121_10_21_45_v3_clean",
+  "max_step_px_filter": 80.0,
+  "smooth_window": 5,
+  "valid_rate_after_cleaning": 0.9933065595716198,
+  "pinch_total_path_px": 6696.737557664896,
+  "pinch_mean_speed_px_s": 224.12106953363113,
+  "pinch_max_speed_px_s": 3811.295365293712,
+  "pinch_mean_acceleration_px_s2": 3548.5912183583887,
+  "pinch_max_acceleration_px_s2": 95282.38413234272
+}
